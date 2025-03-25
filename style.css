@@ -1,0 +1,53 @@
+table{
+    background-color: green;
+    border-collapse: collapse;
+    width: 50%;
+    height: auto;
+    border: 2px solid #ddd;
+    margin: 20px 0;
+
+
+}
+
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 20px;
+
+
+}
+
+h1{
+    color: darkturquoise;
+}
+
+h2{
+    color: darkgoldenrod;
+}
+
+th, td{
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: right;
+}
+
+th{
+    background-color: #f10a0a;
+
+}
+a{
+   color: deeppink; 
+   text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+    color: blue;
+}
+
+a:active{
+    color: darkcyan;
+}
+
+#menu table{
+    border: 3px solid #000;
+}
+
